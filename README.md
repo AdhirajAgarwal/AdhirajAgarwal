@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdhirajAgarwal
 - 👀 I’m interested in front end developememt
-- 🌱 I’m currently learning css
+- 🌱 I’m good at HTML, CSS & SCSS
 
 
 <!---
